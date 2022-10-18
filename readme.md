@@ -11,3 +11,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+## Instructions for setting up Docker env
+1. Select folder from root directory
+2. Open folder in terminal
+3. run command "docker-compose build" or "docker-compose up --build"
